@@ -1,6 +1,6 @@
 # training
 Git training repository
 
-This is my first branch in the training
+This repository contain some file just to train to use git
 
-Hello Word
+This will be removed sone!
