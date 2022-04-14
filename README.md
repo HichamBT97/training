@@ -1,3 +1,3 @@
 # training
 Git training repository
-This is the my first branch in the training
+This is my first branch in the training
