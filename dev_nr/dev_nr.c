@@ -18,7 +18,7 @@ static int driver_close(struct inode *device_file, struct file *instance){
 	return 0;
 }
 
-static struct file_operation fops = {
+static struct file_operations fops = {
 	.owner = THIS_MODULE,
 	.open = driver_open,
 	.release = driver_close
